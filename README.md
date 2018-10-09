@@ -22,6 +22,7 @@ Battleship | Holochain implementation of the game Battleship | https://github.co
 Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
 Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
 Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
+Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
