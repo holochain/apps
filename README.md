@@ -60,4 +60,4 @@ If any of these apps belong to you please let us know so we can list them with a
  - Tagging, Rating & Reviews:
  - Annotate: Attach comments and information
  - Python bridge
- - OCAML bridge
+ - [Bucklescript transpiler](https://github.com/struktured/bs-holochain) - Write Holochain apps in OCaml
