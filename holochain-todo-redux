@@ -1,0 +1,11 @@
+---
+layout: app
+name: holochain-todo-redux
+repo: https://github.com/kristoferlund/holochain-todo-redux
+summary: Example using Gatsby/React/Redux/hc-redux-middleware to communicate with holochain sample todo app.
+dev-phase: Alpha
+thumbnail:
+noteworthy-features:
+website:
+---
+Example using Gatsby/React/Redux/hc-redux-middleware to communicate with holochain sample todo app.
