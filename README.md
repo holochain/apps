@@ -1,12 +1,12 @@
 # Holochain Applications
-Your guide to finding, installing, and running holochain apps
+Your guide to finding and reviewing the status of Holochain apps
 
 There are a variety of distributed applications being built on Holochain. Truthfully, we probably don't know about all of them, but until our distributed app store is more ready for people to reliably share and find apps, we're providing this temporary directory. Please feel free to post a markdown file using the templated format to [this repo](https://github.com/holochain/apps) and send pull requests if you've built or know of apps which should be shared.
 
 ## Apps
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-Holochain Basic Chat | Distributed replacement for slack/mattermost | https://github.com/holochain/holochain-basic-chat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochain-basic-chat.svg)
+Holochain Basic Chat | Prototype of a distributed replacement for Slack/Mattermost | https://github.com/holochain/holochain-basic-chat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochain-basic-chat.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
