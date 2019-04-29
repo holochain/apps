@@ -7,10 +7,6 @@ There are a variety of distributed applications being built on Holochain. Truthf
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
 Holochat | Distributed replacment for slack/mattermost | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg) 
-Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
-Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
-Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
-Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +24,10 @@ These are apps that are good references, but won't work with the modern and supp
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-
+Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
+Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
+Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
+Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
 Transactor | A basic mutual credit currency | https://github.com/holochain/transactor | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/transactor.svg)
 Fractal Wiki | P2P Hypercards within hypercards | https://github.com/bifeitang/fractal-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/bifeitang/fractal-wiki.svg)
 HoloChess | Experimental P2P chess game built on Holochain & Javascript | https://github.com/holochain/holochess | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochess.svg)
