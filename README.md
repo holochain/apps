@@ -6,8 +6,29 @@ There are a variety of distributed applications being built on Holochain. Truthf
 ## Apps
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-Clutter | Prototype twitter clone | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
 Holochat | Distributed replacment for slack/mattermost | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg) 
+Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
+Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
+Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
+Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
+Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
+
+Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-----|-------------|-----|-------
+Personas/Vault | App for people to manage how other apps access their personal information | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
+
+Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-----|-------------|-----|-------
+HC-Redux-Middleware | Middleware for Redux.js to provide holochain calls | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
+
+
+## Apps Written For/With the Holochain prototype (holochain-proto)
+
+These are apps that are good references, but won't work with the modern and supported version of [Holochain](https://github.com/holochain/holochain-rust).
+
+Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-----|-------------|-----|-------
+
 Transactor | A basic mutual credit currency | https://github.com/holochain/transactor | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/transactor.svg)
 Fractal Wiki | P2P Hypercards within hypercards | https://github.com/bifeitang/fractal-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/bifeitang/fractal-wiki.svg)
 HoloChess | Experimental P2P chess game built on Holochain & Javascript | https://github.com/holochain/holochess | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochess.svg)
@@ -17,32 +38,15 @@ Minersweeper | Massively multiplayer distributed minesweeper | https://github.co
 HCHC: Holochain of Holochains | Distributed app store for distributing distributed apps | https://github.com/holochain/HCHC | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/HCHC.svg)
 DAO | Holochain implementation of standard ethereum DAO (Decentralized Autonomous Organization)  | https://github.com/holochain/dao | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dao.svg)
 Touchpoints | Near field communication event triggers and logging | https://github.com/holochain/touchpoints | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/touchpoints.svg)
-Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
-Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
-Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
-Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
-Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
-Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
+Clutter | Prototype twitter clone | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
+Liquid Wiki | Federated wiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
 QuerySearch (previously HoloDex) | Bridged app for indexing your DHT data | https://github.com/HC-Interns/hc-querysearch | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/hc-querysearch.svg)
-Personas/Vault | App for people to manage how other apps access their personal information | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
 DPKI (Distributed public key infrastructure) | Key management and self-sovereign identity | https://github.com/holochain/DPKI | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/DPKI.svg)
 Backups | Back up your source chain entries to rebuild your state in case of data loss | https://github.com/HC-Interns/proto-hc-backup | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/proto-hc-backup.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 Anchors | Keeping your DHT data "found" | https://github.com/holochain/mixins | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/mixins.svg)
 PeerVis | A way to visually see who is online and connected as a peer in your Holochain app | https://github.com/holochain/PeerVis | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/PeerVis.svg)
-
-
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 Scaffold Tool | Web tool for rapid creation of DNA structure | https://github.com/holochain/scaffold | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/scaffold.svg)
 DNA-To-OpenAPI | given holochain dna, generate a swagger / openapi spec file | https://github.com/holochain/dna-to-openapi | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dna-to-openapi.svg)
-HC-Redux-Middleware | Middleware for Redux.js to provide holochain calls | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
 bs-holochain | Holochain Bindings for Bucklescript | https://github.com/struktured/bs-holochain | ![GitHub last commit](https://img.shields.io/github/last-commit/struktured/bs-holochain.svg)
 
 
