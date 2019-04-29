@@ -6,12 +6,12 @@ There are a variety of distributed applications being built on Holochain. Truthf
 ## Apps
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-Holochat | Distributed replacment for slack/mattermost | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg) 
+Holochain Basic Chat | Distributed replacement for slack/mattermost | https://github.com/holochain/holochain-basic-chat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochain-basic-chat.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
-Personas/Vault | App for people to manage how other apps access their personal information | https://github.com/holochain/holo-vault | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holo-vault.svg)
+Personas/Profiles | App for people to manage how other apps access their personal information | https://github.com/holochain/personas-profiles | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/personas-profiles/master.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
@@ -24,6 +24,7 @@ These are apps that are good references, but won't work with the modern and supp
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
+Holochat | Distributed replacement for slack/mattermost | https://github.com/holochain/holochat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochat.svg)
 Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
 Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
 Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
