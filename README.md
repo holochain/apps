@@ -23,6 +23,7 @@ Notary | Notary system built on holochain | https://github.com/HC-Interns/notary
 Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
 Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
+MailBoox | Distributed p2p book library | https://github.com/zaunders/MailBoox-rust | ![GitHub last commit](https://img.shields.io/github/last-commit/zaunders/MailBoox-rust.svg)
 
 Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -----|-------------|-----|-------
@@ -55,7 +56,6 @@ If any of these apps belong to you please let us know so we can list them with a
  - Hackstage: Event mangagement
  - MyData private data sharing:
  - Unmute / Medium / P2P Blognet:
- - P2P Library:
  - Building Permits/Approvals:
  - Tagging, Rating & Reviews:
  - Annotate: Attach comments and information
