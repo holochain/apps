@@ -8,15 +8,9 @@ Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 -----|-------------|-----|-------
 Holochain Basic Chat | Prototype of a distributed replacement for Slack/Mattermost | https://github.com/holochain/holochain-basic-chat | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/holochain-basic-chat.svg)
 Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 Personas/Profiles | App for people to manage how other apps access their personal information | https://github.com/holochain/personas-profiles | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/personas-profiles/master.svg)
-
-Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
------|-------------|-----|-------
 HC-Redux-Middleware | Middleware for Redux.js to provide holochain calls | https://github.com/holochain/hc-redux-middleware | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/hc-redux-middleware.svg)
-
+Coolcats2 | Prototype twitter clone (Rust port of Clutter) | https://github.com/pythagorean/coolcats2 | ![GitHub last commit](https://img.shields.io/github/last-commit/pythagorean/coolcats2.svg)
 
 ## Apps Written For/With the Holochain prototype (holochain-proto)
 
