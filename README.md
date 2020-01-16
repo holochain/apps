@@ -49,6 +49,7 @@ Scaffold Tool | Web tool for rapid creation of DNA structure | https://github.co
 DNA-To-OpenAPI | given holochain dna, generate a swagger / openapi spec file | https://github.com/holochain/dna-to-openapi | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dna-to-openapi.svg)
 bs-holochain | Holochain Bindings for Bucklescript | https://github.com/struktured/bs-holochain | ![GitHub last commit](https://img.shields.io/github/last-commit/struktured/bs-holochain.svg)
 
+TODO: merge other happs listed here (that are not already listed above): https://developer.holochain.org/docs/guide/built_with_holochain/
 
 ## Lost/Orphaned apps
 If any of these apps belong to you please let us know so we can list them with a URL
