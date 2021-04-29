@@ -1,4 +1,6 @@
 # Holochain Applications
+> Please note, this repo is out-of-date.  Apps for the latest version holochain are not being tracked here.
+
 Your guide to finding and reviewing the status of Holochain apps
 
 There are a variety of distributed applications being built on Holochain. Truthfully, we probably don't know about all of them, but until our distributed app store is more ready for people to reliably share and find apps, we're providing this temporary directory. Please feel free to post a markdown file using the templated format to [this repo](https://github.com/holochain/apps) and send pull requests if you've built or know of apps which should be shared.
