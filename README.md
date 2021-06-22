@@ -34,6 +34,16 @@ Minersweeper | Massively multiplayer distributed minesweeper | https://github.co
 HCHC: Holochain of Holochains | Distributed app store for distributing distributed apps | https://github.com/holochain/HCHC | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/HCHC.svg)
 DAO | Holochain implementation of standard ethereum DAO (Decentralized Autonomous Organization)  | https://github.com/holochain/dao | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/dao.svg)
 Touchpoints | Near field communication event triggers and logging | https://github.com/holochain/touchpoints | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/touchpoints.svg)
+Unter (Uber clone) | Let's use Holochain to build an Uber clone minus the middleman | https://github.com/ArcadeCity/unter | ![GitHub last commit](https://img.shields.io/github/last-commit/ArcadeCity/unter.svg)
+Battleship | Holochain implementation of the game Battleship | https://github.com/willemolding/holochain-battleship | ![GitHub last commit](https://img.shields.io/github/last-commit/willemolding/holochain-battleship.svg)
+Notary | Notary system built on holochain | https://github.com/HC-Interns/notary | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/notary.svg)
+Holo-Health | Empowered (person-centric) health marketplace | https://github.com/evomimic/holo-health | ![GitHub last commit](https://img.shields.io/github/last-commit/evomimic/holo-health.svg)
+Liquid Wiki | Federated qiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
+Omni | Open Access scholarly communications platform with fully p2p article review system | https://github.com/OmniProject/omni | ![GitHub last commit](https://img.shields.io/github/last-commit/OmniProject/omni.svg)
+MailBoox | Distributed p2p book library | https://github.com/zaunders/MailBoox-rust | ![GitHub last commit](https://img.shields.io/github/last-commit/zaunders/MailBoox-rust.svg)
+
+Name | description | URL | Status&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-----|-------------|-----|-------
 Clutter | Prototype twitter clone | https://github.com/holochain/clutter | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/clutter.svg)
 Liquid Wiki | Federated wiki ported to Holochain | https://github.com/holochain/fed-wiki | ![GitHub last commit](https://img.shields.io/github/last-commit/holochain/fed-wiki.svg)
 QuerySearch (previously HoloDex) | Bridged app for indexing your DHT data | https://github.com/HC-Interns/hc-querysearch | ![GitHub last commit](https://img.shields.io/github/last-commit/HC-Interns/hc-querysearch.svg)
@@ -55,7 +65,6 @@ If any of these apps belong to you please let us know so we can list them with a
  - Hackstage: Event mangagement
  - MyData private data sharing:
  - Unmute / Medium / P2P Blognet:
- - P2P Library:
  - Building Permits/Approvals:
  - Tagging, Rating & Reviews:
  - Annotate: Attach comments and information
